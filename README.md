@@ -5,6 +5,6 @@
 - I work in Python and I'm learning SQL.
 - I’m looking to collaborate on GitHub or Kaggle.
 - I'm currently seeking internships and jobs in NLP, ML language modeling and text mining in CO and FL.
-- Ask me about: the history of Polish Jazz and Moto Guzzi V7 Stone that I ride to the university.
+- Ask me about: the history of Polish Jazz or Moto Guzzi V7 Stone that I ride to the university.
 - How to reach me: www.linkedin.com/in/natalia-wojarnik
 
