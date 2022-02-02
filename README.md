@@ -1,7 +1,7 @@
 ### Hello, I'm Natalia Wojarnik 👋
 
-- I’m doing research on the language of confessions on online platforms and the language of patients in specific stages of psychotherapy sessions. 
-- I'm interested in personal pronouns and emotional language in NLP & psychotherapy. 
+- I’m doing research on the language of confessions on online platforms and the language of psychotherapy patients. 
+- I'm interested in language modeling in NLP & psychotherapy. 
   If you want to collaborate, reach out to me.
 - I'm a part of the iSAT project [The National Science Foundation AI Institute for Student-AI Teaming](https://www.colorado.edu/research/ai-institute/) which aims to integrate AI into classrooms.
 - Python / R / Java / Text Analysis / Language Engineering
