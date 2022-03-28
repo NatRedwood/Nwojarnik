@@ -1,4 +1,4 @@
-### Hello, I'm Natalia Wojarnik 👋
+### Hello, I'm Natalia Redwood 👋
 
 - I’m doing research on the language of confessions on online platforms and the language of psychotherapy patients. 
 - I'm interested in language modeling in NLP & psychotherapy. 
